@@ -1,4 +1,5 @@
-streamlit
-requests
-matplotlib
+numpy
 pandas
+matplotlib
+streamlit
+plotly
